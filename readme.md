@@ -1,3 +1,3 @@
 # Segundo Proyecto
 
-Este va  apuntar a repositorio en mi GITHUB
+Este va  apuntar a repositorio en mi GITHUBs
